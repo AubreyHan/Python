@@ -4,3 +4,4 @@ p =345
 a=q+p
 print ( a )
 w = 45
+print ( w )
