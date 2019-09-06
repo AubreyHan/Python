@@ -1,7 +1,3 @@
-q = 123
-print ( q )
-p =345
-a=q+p
-print ( a )
-w = 45
-print ( w )
+a = "qwe {} rty {} t"
+b ="ry"
+print (a.format(b,b))
