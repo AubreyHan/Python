@@ -16,7 +16,7 @@ while errNum == 1:
 
 while i != 1:
     i = collatz(i)
-print (1)
+print (i)
 
 
         
