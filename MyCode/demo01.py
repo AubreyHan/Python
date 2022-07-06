@@ -18,5 +18,5 @@ def list_blobs_with_prefix(bucket_name, prefix, delimiter=None):
         for prefix in blobs.prefixes:
             print(prefix)
 
-list_blobs_with_prefix('hydemo002','demo')
+list_blobs_with_prefix('hydemo002','hy','/')
 
